@@ -14,6 +14,7 @@ let () = {
       switch day {
       | "1" => Day1.Answer.make()
       | "2" => Day2.Answer.make()
+      | "3" => Day3.Answer.make()
       | _ => Printf.printf("Invalid Day");
       }
     | None => Printf.printf("Invalid Day");

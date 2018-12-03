@@ -1,4 +1,4 @@
 (executable
   (name Advent)
   (public_name Advent.exe)
-  (libraries day1 day2))
+  (libraries day1 day2 day3))
